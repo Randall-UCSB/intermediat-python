@@ -1,1 +1,3 @@
-# intermediate-python
+# Intermedia Python for Data Science
+
+
